@@ -1,0 +1,8 @@
+POST http://localhost:3000/reporte 
+Y se debe enviar un json como este: {
+								"mensaje": "Reporte de prueba enviado por la comunidad"
+							   }
+
+La ruta `POST /reporte` permite recibir información enviada por los usuarios mediante una solicitud HTTP y responder confirmando que el reporte fue recibido correctamente. En una aplicación comunitaria, podría utilizarse para que los ciudadanos envíen reportes, sugerencias o alertas sobre situaciones que ocurren en su comunidad, facilitando la comunicación y la organización de la información de manera rápida y estructurada.
+
+

@@ -1,0 +1,10 @@
+http://localhost:3000
+Se hace una solicitud al servidor y este responde mostrando un mensaje "Servidor activo"
+
+http://localhost:3000/saludo
+Se realiza un solicitud al servidor pero con una diferencia en la ruta /saludo lo que lleva a una ruta diferente y muestra un mensaje "Hola comunidad"
+
+http://localhost:3000/mensaje/juan
+Se realiza una solicitud al servidor con la diferencia de ruta /mensaje/juan donde juan es un parámetro variable que se puede modificar sin afectar nada mostrando un mensaje de "Hola ' + nombre" en este caso Hola juan
+
+
