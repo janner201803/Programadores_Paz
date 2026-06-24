@@ -1,0 +1,3 @@
+1. Activar la autenticación de dos factores cuando esté disponible.
+2. Evitar abrir enlaces o archivos de origen desconocido.
+3. Realizar copias de seguridad periódicas de la información importante.

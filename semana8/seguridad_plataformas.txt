@@ -1,0 +1,5 @@
+1. Utilizar contraseñas seguras y autenticación de dos factores.
+2. Mantener el sistema y las aplicaciones actualizadas.
+3. Realizar copias de seguridad periódicas de la información.
+4. Controlar y limitar el acceso a datos sensibles según los roles de los usuarios.
+5. Utilizar conexiones seguras (HTTPS) para proteger la información transmitida.
