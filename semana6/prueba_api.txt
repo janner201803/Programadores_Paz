@@ -1,0 +1,1 @@
+La respuesta del servidor indica que los datos enviados fueron recibidos correctamente. En el mensaje de respuesta se muestra el estado "Datos recibidos" junto con los valores enviados en el JSON, que corresponden al nombre "Maria" y al mensaje "Hola comunidad". Esto permite verificar que la información fue procesada por el servidor y devuelta como confirmación al usuario.
